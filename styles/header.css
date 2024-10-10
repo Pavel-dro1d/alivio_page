@@ -7,17 +7,11 @@
     align-items: center;
 }
 
-.header__nav {}
-
 .header__nav-list {
     display: flex;
     justify-content: center;
     align-items: center;
     column-gap: min(70px, 4vw);
-}
-
-.header__nav-item {
-
 }
 
 .header__nav-link {
@@ -26,7 +20,6 @@
     color: var(--co-black);
     white-space: nowrap;
 }
-
 
 .btn:hover,
 .btn:focus-visible {
