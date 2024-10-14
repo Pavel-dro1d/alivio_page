@@ -35,7 +35,7 @@ opacity: 0.3;
 
 .card_img {
     width: 100%;
-    offset: cover;
+    object-fit: cover;
     border-radius: 12px;
     aspect-ratio: auto 65/82;
 }
