@@ -8,6 +8,10 @@ body {
     background-color: var(--co-white);
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 ul {
     list-style: none;
     margin: 0;
